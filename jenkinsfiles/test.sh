@@ -7,5 +7,6 @@ echo "Current User:"
 whoami
 echo "Current Directory:"
 pwd
+ls -l
 
 echo "Script executed successfully!"
